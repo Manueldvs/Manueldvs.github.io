@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Díaz V on Manuel Díaz V Taller - Taller Producto 2021</title>
+    <link>https://manueldvs.github.io/</link>
+    <description>Recent content in Manuel Díaz V on Manuel Díaz V Taller - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://manueldvs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fabricacion tablas de surf</title>
+      <link>https://manueldvs.github.io/docs/post1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/post1/</guid>
+      <description>Una breve descripcion de mi hobbie de fabricacion de tablas de surf con contenido visual</description>
+    </item>
+    
+    <item>
+      <title>Silla 0.5 Maarten Van Severen</title>
+      <link>https://manueldvs.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/markdown/</guid>
+      <description>Silla 0.5</description>
+    </item>
+    
+    <item>
+      <title>Silla Ulmer Hocker Bill</title>
+      <link>https://manueldvs.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/ejemplo/</guid>
+      <description>Silla Ulmer Hocker</description>
+    </item>
+    
+  </channel>
+</rss>
