@@ -9,29 +9,74 @@
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://manueldvs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fabricacion tablas de surf</title>
-      <link>https://manueldvs.github.io/docs/post1/</link>
+      <link>https://manueldvs.github.io/docs/tablassurf/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://manueldvs.github.io/docs/post1/</guid>
+      <guid>https://manueldvs.github.io/docs/tablassurf/</guid>
       <description>Una breve descripcion de mi hobbie de fabricacion de tablas de surf con contenido visual</description>
     </item>
     
     <item>
       <title>Silla 0.5 Maarten Van Severen</title>
-      <link>https://manueldvs.github.io/docs/markdown/</link>
+      <link>https://manueldvs.github.io/docs/0.5van/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://manueldvs.github.io/docs/markdown/</guid>
+      <guid>https://manueldvs.github.io/docs/0.5van/</guid>
       <description>Silla 0.5</description>
     </item>
     
     <item>
-      <title>Silla Ulmer Hocker Bill</title>
-      <link>https://manueldvs.github.io/docs/ejemplo/</link>
+      <title>Silla Ulmer Hocker Max Bill</title>
+      <link>https://manueldvs.github.io/docs/sillaulmer/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://manueldvs.github.io/docs/ejemplo/</guid>
+      <guid>https://manueldvs.github.io/docs/sillaulmer/</guid>
       <description>Silla Ulmer Hocker</description>
+    </item>
+    
+    <item>
+      <title>Familia Silla 0.5</title>
+      <link>https://manueldvs.github.io/docs/familia0.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/familia0.5/</guid>
+      <description>Fotos de los render de la familia de la silla 0.5 de Martin Van Seveeren</description>
+    </item>
+    
+    <item>
+      <title>Primer encargo grupal</title>
+      <link>https://manueldvs.github.io/docs/primerencargo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/primerencargo/</guid>
+      <description>Encargo grupal</description>
+    </item>
+    
+    <item>
+      <title>Encargo personal mesa U lineas renders y pdf</title>
+      <link>https://manueldvs.github.io/docs/encargomesau/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/encargomesau/</guid>
+      <description>Encargo personal</description>
+    </item>
+    
+    <item>
+      <title>Entrega final unidad mobiliario</title>
+      <link>https://manueldvs.github.io/docs/entregafinal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/entregafinal/</guid>
+      <description>Entrega final unidad mobiliario pdf + concepto</description>
+    </item>
+    
+    <item>
+      <title>Entrevista culinaria</title>
+      <link>https://manueldvs.github.io/docs/entrevista/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/entrevista/</guid>
+      <description>Entrevista Culinaria</description>
     </item>
     
   </channel>
