@@ -79,5 +79,14 @@
       <description>Entrevista Culinaria</description>
     </item>
     
+    <item>
+      <title>Entrega moldes Fusion</title>
+      <link>https://manueldvs.github.io/docs/entregafusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/entregafusion/</guid>
+      <description>Entrega Fusion 360 N1</description>
+    </item>
+    
   </channel>
 </rss>
