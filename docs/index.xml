@@ -90,11 +90,20 @@
     
     <item>
       <title>Encargo 2.2</title>
-      <link>https://manueldvs.github.io/docs/entregafusion/</link>
+      <link>https://manueldvs.github.io/docs/encargo2.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://manueldvs.github.io/docs/entregafusion/</guid>
+      <guid>https://manueldvs.github.io/docs/encargo2.2/</guid>
       <description>Entrega Fusion 360 N1</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2.3</title>
+      <link>https://manueldvs.github.io/docs/encargo2.3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/encargo2.3/</guid>
+      <description>Entrega Moldes</description>
     </item>
     
     <item>
@@ -104,6 +113,15 @@
       
       <guid>https://manueldvs.github.io/docs/encargo2.4/</guid>
       <description>Entrega experimentacion</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2.5</title>
+      <link>https://manueldvs.github.io/docs/encargo2.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://manueldvs.github.io/docs/encargo2.5/</guid>
+      <description>Entrega final Fotos</description>
     </item>
     
   </channel>
